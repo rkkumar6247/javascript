@@ -1,0 +1,9 @@
+
+Conditional Operator & looping Statements
+-----------------------------------------
+
+1) if-else
+2) switch
+3) for loop
+4) while loop
+5) do-while loop

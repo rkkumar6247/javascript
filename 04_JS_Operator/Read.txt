@@ -1,0 +1,13 @@
+
+JavaScript Operators
+--------------------
+-> Assignment Operator: =
+-> Arithmetic Operator: + - / * %
+-> Short hand Math Operator: += , -= , /= , *= 
+-> Conditional Operator: < , > , <= , >=, !==
+-> Unary Operator: ++ , --
+-> Logical Operator: && , || , ^
+-> Ternary Operator: ?:
+-> Equality Operator: == , ===
+
+

@@ -1,0 +1,43 @@
+Rules for the Variable Declarations
+----------------------------------------
+
+1) all variables are case sensitive
+
+Ex: 
+
+let name = 'Rakesh';
+console.log(Name); // Error: Name is not defined
+
+2) All variables name must be in camelcase
+
+Ex:
+
+let employeename = 'John'; // Not a good practice
+let employeeName = 'John'; // Good
+let myEmployeeName = 'John';  // Good Practice for writing this type of variable name
+
+3) Max allowed char 15 is good. If you write in more character, it will not error but for the good practice write max 15 char.
+
+4) Char allowed are a-z, A-Z, $, _ , 0-9
+
+Ex:
+
+let number = 10; // Valid
+let $number = 10; // Valid
+let _number = 30; // Valid
+let Number = 30; // Valid
+let Number1 = 30; //Valid
+let number_1 = 30; // Valid
+let 1number = 30; // Not valid
+
+// Variable must not start with the number
+
+let #name = 30; // Invalid because # symbol not allowed
+
+5) A Variable must not re-declared
+
+Ex:
+
+let name = 'Rakesh';
+let name = 'John';
+console.log(name);

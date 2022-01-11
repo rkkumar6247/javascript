@@ -1,0 +1,24 @@
+
+Javascript Array
+------------------
+
+-> Array is an indexed collection of elements (object / string / array / boolean / number)
+-> 0 is a first number of the index.
+
+
+--------------------------
+Built-in Array Functions
+--------------------------
+shift() -> remove the first elements from the array
+unshift() -> add the first elements of the array
+push() -> add the last element to array
+pop() -> remove the last element from array
+sort() -> to sort the array in ascending order
+reverse() -> to reverse the array elements
+splice() -> to remove / replace from the middle
+split -> to split a string to an array
+join() -> to join the array elements to string
+slice -> to create a new copy of an array
+forEach() -> to loop the array elements
+find() -> find exact element with condition from 
+filter() -> to filter the array elements

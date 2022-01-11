@@ -1,0 +1,7 @@
+
+Javascript Object
+------------------
+
+Object is a real world entity / thing
+
+-> Poperty name always will be string not a number
